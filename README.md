@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elkyw</h1>
 <h3 align="center">A passionate frontend developer from</h3>
-
+<img align="left" src="https://media1.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.webp?cid=6c09b952988d9030604840ff58b8fb258de8964aaedee2d2&rid=giphy.webp&ct=g"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elkyw&label=Profile%20views&color=0e75b6&style=flat" alt="elkyw" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elkyw" alt="elkyw" /></a> </p>
