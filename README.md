@@ -1,5 +1,5 @@
 
-![I am GitHub Readme Generator's creator](/banner.png)
+![I am elkyw](/banner.png)
 
 ### This README is brought to you by excessive caffeine and an unhealthy love for code.
 Hi! I'm Elkyw, I like dogs and books. Ok that was a horrible way to introduce myself.
