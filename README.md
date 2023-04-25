@@ -12,7 +12,7 @@ Some quick fun facts about me:
 
 2. 16 Years Old
 
-3. 97 WPM peak typing speed
+3. 47 WPM peak typing speed
 
 5. Proud Linux User
 
